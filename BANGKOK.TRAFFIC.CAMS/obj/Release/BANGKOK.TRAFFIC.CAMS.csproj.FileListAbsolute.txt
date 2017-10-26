@@ -1,0 +1,90 @@
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\App.xbf
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\MainPage.xbf
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\Pages\Settings.xbf
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\Pages\Watch.xbf
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\BANGKOK.TRAFFIC.CAMS.xr.xml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\BANGKOK.TRAFFIC.CAMS.exe
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\BANGKOK.TRAFFIC.CAMS.pdb
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\resources.pri
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\AppxManifest.xml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\BANGKOK.TRAFFIC.CAMS.build.appxrecipe
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\Newtonsoft.Json.dll
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\Newtonsoft.Json.xml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\App.g.i.cs
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\App.g.cs
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\MainPage.g.i.cs
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\MainPage.g.cs
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Settings.g.i.cs
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Settings.g.cs
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Watch.g.i.cs
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Watch.g.cs
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\XamlTypeInfo.g.cs
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\App.xaml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\MainPage.xaml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Settings.xaml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\App.xbf
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\MainPage.xbf
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Settings.xbf
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\XamlSaveStateFile.xml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Watch.xaml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Watch.xbf
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\BANGKOK.TRAFFIC.CAMS.exe
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\BANGKOK.TRAFFIC.CAMS.pdb
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\BANGKOK.TRAFFIC.CAMS.csproj.GenerateResource.Cache
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\priconfig.xml
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\priconfig.xml.intermediate
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\layout.resfiles
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\layout.resfiles.intermediate
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\resources.resfiles
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\resources.resfiles.intermediate
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\pri.resfiles
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\pri.resfiles.intermediate
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\qualifiers.txt
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\qualifiers.txt.intermediate
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\EricProm\Documents\Visual Studio 2013\Projects\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\ProjectArchitectures.txt
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\App.xbf
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\MainPage.xbf
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\Pages\Settings.xbf
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\Pages\Watch.xbf
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\BANGKOK.TRAFFIC.CAMS.xr.xml
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\BANGKOK.TRAFFIC.CAMS.exe
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\BANGKOK.TRAFFIC.CAMS.pdb
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\resources.pri
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\AppxManifest.xml
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\BANGKOK.TRAFFIC.CAMS.build.appxrecipe
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\Newtonsoft.Json.dll
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\bin\Release\Newtonsoft.Json.xml
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\App.g.i.cs
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\App.g.cs
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\MainPage.g.i.cs
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\MainPage.g.cs
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Settings.g.i.cs
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Settings.g.cs
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Watch.g.i.cs
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Watch.g.cs
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\XamlTypeInfo.g.cs
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\App.xaml
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\MainPage.xaml
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Settings.xaml
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Watch.xaml
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\App.xbf
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\MainPage.xbf
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Settings.xbf
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\Pages\Watch.xbf
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\XamlSaveStateFile.xml
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\BANGKOK.TRAFFIC.CAMS.exe
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\BANGKOK.TRAFFIC.CAMS.pdb
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\BANGKOK.TRAFFIC.CAMS.csproj.GenerateResource.Cache
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\priconfig.xml
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\priconfig.xml.intermediate
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\layout.resfiles
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\layout.resfiles.intermediate
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\resources.resfiles
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\resources.resfiles.intermediate
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\pri.resfiles
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\pri.resfiles.intermediate
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\qualifiers.txt
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\qualifiers.txt.intermediate
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\EricProm\Documents\bangkok-traffic-cams\BANGKOK.TRAFFIC.CAMS\BANGKOK.TRAFFIC.CAMS\obj\Release\ProjectArchitectures.txt
